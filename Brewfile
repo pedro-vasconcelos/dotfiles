@@ -43,6 +43,7 @@ cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'zoom'
 cask 'microsoft-teams'
+cask 'iterm2'
 
 # Fonts
 cask 'font-lato'
