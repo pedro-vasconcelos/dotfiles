@@ -50,7 +50,7 @@ brew bundle --file $DOTFILES/Brewfile
 # mkdir $HOME/Sites/laravel
 
 # Clone Github repositories
-$DOTFILES/clone.sh
+#$DOTFILES/clone.sh
 
 # Symlink the Mackup config file to the home directory
 ln -s $DOTFILES/.mackup.cfg $HOME/.mackup.cfg
