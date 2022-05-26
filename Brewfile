@@ -57,3 +57,4 @@ cask 'font-source-serif-pro'
 # Mac App Store
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
+mas 'Magnet', id: 441258766
